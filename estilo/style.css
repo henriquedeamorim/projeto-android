@@ -62,7 +62,7 @@ header p {
 
 nav {
     background-color: var(--cor5);
-    padding: 10px;
+    padding: 15px;
     text-align: center;
     margin: auto;
     
@@ -72,15 +72,13 @@ nav a {
     text-decoration: none;
     color: var(--cor1);
     font-weight: bold;
-    padding: 10px;
-    border-radius: 5px;
+    padding-right: 18px;
     transition-duration: 0.3s;
     font-weight: normal;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 nav a:hover {
 
-    background-color: #176639;
     color: rgb(157, 255, 0); 
     text-shadow: 1px 1px 5px rgb(214, 255, 101); 
 }
@@ -112,6 +110,7 @@ div.video {
     padding: 20px;
     padding-bottom: 58%;
     position: relative;
+    margin-bottom: 20px;
 }
 
 div.video iframe {
