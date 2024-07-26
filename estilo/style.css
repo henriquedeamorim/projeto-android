@@ -83,6 +83,24 @@ nav a:hover {
     text-shadow: 1px 1px 5px rgb(214, 255, 101); 
 }
 
+nav a.img4:hover {
+    color: #FE2B2A;
+    text-shadow: 1px 1px 15px rgb(255, 117, 53); 
+}
+nav a.img3:hover {
+    color: #3384FF;
+    text-shadow: 1px 1px 15px rgb(102, 236, 253);
+}
+
+nav a.img2:hover {
+    color: #FFFA00;
+    text-shadow: 1px 1px 15px rgb(255, 246, 166);
+}
+nav a.img1:hover {
+    color: #00E741;
+    text-shadow: 1px 1px 15px rgb(192, 255, 92);
+}
+
 main {
     background-color: rgb(247, 247, 247);
     min-width: 360px;
